@@ -1,3 +1,21 @@
 {
-"project_name": null
+"project_name": null,
+      "project_slug": "new_project",
+    "file_types": {
+        "png": {
+            "name": "Portable Network Graphic",
+            "library": "libpng",
+            "apps": [
+                "GIMP"
+            ]
+        },
+        "bmp": {
+            "name": "Bitmap",
+            "library": "libbmp",
+            "apps": [
+                "Paint",
+                "GIMP"
+            ]
+        }
+    }
 }
